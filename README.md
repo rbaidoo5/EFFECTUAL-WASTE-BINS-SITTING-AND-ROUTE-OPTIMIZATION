@@ -4,10 +4,10 @@ A Decision Support System framework that  utilizes Geographic information System
 Urban waste management in rapidly growing cities like Accra, Ghana, faces persistent challenges such as overflowing bins, inefficient collection routes, high operational costs, and uncollected waste fuelling illegal dumping. This project develops a GIS-based Decision Support System (DSS) that combines spatial Multi-Criteria Evaluation (MCE) and Vehicle Routing Problem (VRP) optimization to systematically improve waste bin placement and collection route efficiency across Ablekuma Central Municipality.
 
 ### Key Outcomes:
-1. 🗺️ Identified 1,435 optimal new waste bin locations using weighted spatial analysis
-2. 🚛 Optimized routes for a fleet of 4 collection trucks servicing 1,694 total bins
-3. 📉 Projected 28–35% reduction in total travel distance vs. baseline routes
-4. ⏱️ Total fleet travel time reduced to 210 minutes covering 75.8 km
+1. Identified 1,435 optimal new waste bin locations using weighted spatial analysis
+2. Optimized routes for a fleet of 4 collection trucks servicing 1,694 total bins
+3. Projected 28–35% reduction in total travel distance vs. baseline routes
+4. Total fleet travel time reduced to 210 minutes covering 75.8 km
 
 ## Study Area
 - Ablekuma Central Municipality, Greater Accra Region, Ghana
